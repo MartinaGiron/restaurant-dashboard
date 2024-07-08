@@ -1,9 +1,6 @@
 streamlit
 pandas
-plotly.express
+plotly
 datetime
-plotly.graph_objects
 numpy
 folium
-plugins
-st_folium
