@@ -4,3 +4,4 @@ plotly
 datetime
 numpy
 folium
+streamlit_folium
