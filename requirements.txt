@@ -1,0 +1,9 @@
+streamlit
+pandas
+plotly.express
+datetime
+plotly.graph_objects
+numpy
+folium
+plugins
+st_folium
